@@ -9,7 +9,7 @@ export default function RentNow() {
                     dolore magna aliqua.
                 </div>
                 <button className="carRentButton font">
-                    <a href="http://localhost:5173/getcars">Mulai Sewa Mobil</a>
+                    <a href="https://24001160-synrgy7-jus-fefin-ch8.vercel.app/getcars">Mulai Sewa Mobil</a>
                 </button>
             </div>
         </div>
